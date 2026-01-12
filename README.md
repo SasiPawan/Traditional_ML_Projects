@@ -5,8 +5,7 @@ This repository is a collection of ML Projects, built primarily using in *Jupyte
 
 ---
 
-## Project 1: Regression
-
+## Project 1: Regression : Medical Insurance Cost Prediction
 This project implements and compares multiple regression techniques using a unified workflow.
 
 ### Models implemented
