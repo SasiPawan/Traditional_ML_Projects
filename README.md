@@ -1,6 +1,6 @@
 # Machine Learning Projects -
 
-This repository is a collection of ML Projects, built primarily using in *Jupyter notebooks*.
+This repository is a collection of ML Projects, built primarily using *Jupyter notebooks*.
 
 
 ---
